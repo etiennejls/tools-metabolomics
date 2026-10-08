@@ -5,7 +5,7 @@ Metadata
 
  * **@name**: Batch dispersion
  * **@galaxyID**: batch_dispersion
- * **@version**: 0.1.6+galaxy0
+ * **@version**: 0.1.6+galaxy1
  * **@authors**: Original code: Brice Mulot (PFEM - UNH - INRAE) - Maintainer: Etienne Jules (PFEM - UNH - INRAE - MetaboHUB)
  * **@init date**: 2025, July
  * **@main usage**: This tool analyses dispersion of ions intensities across analytical batches of metabolomic analysis on quality controls samples.
